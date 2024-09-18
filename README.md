@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrujan
-- 👀 I’m interested in coding 
-- - 🌱 I’m currently learning BE CSE 1st sem
+- 👀 I’m interested in coding and i am a student 
+-🌱 I’m currently learning BE CSE 1st sem
 - 📫Reach me ... through Gmail - aurajoker14@gmail.com
 - 😄 Pronouns: HE/HIM
 
